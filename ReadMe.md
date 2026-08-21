@@ -25,7 +25,7 @@
 
 ## 🎯 Graphical Abstract
 
-![COMLGAN Graphical Abstract](graphical_abstract.png)
+![COMLGAN Graphical Abstract](graphical_abstract.jpg)
 
 *Figure: COMLGAN architecture workflow showing the dual-branch design with mutual learning fusion for semantic segmentation of wear defects on SEM friction track images.*
 
