@@ -17,9 +17,9 @@
 
 ## 📰 Paper Information
 
-**Title:** Concurrent Optimisation via Mutual Learning GAN (COMLGAN): Application to the Detection of Local Wear on Friction Surface Images
+**Title:** Detecting Localized Wear on Friction Surfaces via Concurrent Optimisation and Mutual Learning in Generative Adversarial Network
 
-**Target Journal:** *Wear* (Elsevier)
+**Journal:** *????* (Elsevier)
 
 **Status:** Under Review
 
